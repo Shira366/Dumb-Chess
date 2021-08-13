@@ -1,6 +1,6 @@
 Not much to say here.
 
-This code is does not work properly on discovered checks and certain other small things.
+This code does not work properly on discovered checks and certain other small things.
 
 Use it as you may or just to have a good laugh.
 
